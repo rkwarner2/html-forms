@@ -1,0 +1,19 @@
+/* DEFAULT CSS FILE TEMPLATE */
+
+form .group{
+    flex: 1;
+    flex-direction: column;
+    width: 100%;
+  }
+
+
+/* @media all and (min-width: 720px) {
+    form .group {
+    flex: 1;
+    flex-direction: column;
+    width: 100%;
+    background-color: blue;
+    }
+  }
+
+  */
